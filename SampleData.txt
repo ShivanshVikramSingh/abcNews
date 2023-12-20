@@ -1,0 +1,1302 @@
+[
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "India vs Australia: A billion heartbreaks as India lose the ICC 2023 World Cup final",
+        "description": "Cricket fans have taken to social media to express grief after Australia lifted the Cup on Sunday.",
+        "url": "https://www.bbc.co.uk/news/world-asia-india-67471098",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/09B6/production/_131768420_gettyimages-1802424394.jpg",
+        "publishedAt": "2023-11-20T05:26:19Z",
+        "content": "Millions of Indians are nursing broken hearts after the national cricket team lost to Australia in the World Cup final on Sunday.\r\nAustralia, who have now lifted the World Cup six times, won by six w… [+2810 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "BBC announces restructure to India operations",
+        "description": "A new, wholly Indian-owned company has been set up containing the BBC's six Indian language services.",
+        "url": "https://www.bbc.co.uk/news/world-asia-india-67690617",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0184/production/_131988300_bbcindia.png",
+        "publishedAt": "2023-12-12T14:38:31Z",
+        "content": "The BBC is restructuring its operations in India to comply with the country's foreign investment rules. \r\nFour employees will leave the BBC to form a wholly Indian-owned company, Collective Newsroom,… [+1882 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Oliver Franklin-Wallis",
+        "title": "Inside India’s Gargantuan Mission to Clean the Ganges River",
+        "description": "The Ganges river is one of the world’s most sacred waterways—and one of its most polluted. To restore it, India is undertaking one of the biggest engineering programs in the history of sanitation.",
+        "url": "https://www.wired.com/story/india-ganges-river-clean-project/",
+        "urlToImage": "https://media.wired.com/photos/6567bef43244f51a93535a7e/191:100/w_1280,c_limit/Saumya-Khandelwal-WIRED_SAM3382.jpg",
+        "publishedAt": "2023-11-30T11:00:00Z",
+        "content": "Back in 2014, before the launch of the Namami Gange program, Mishra sat with Modi to discuss his hopes to clean the Ganges. Mishras foundation has since presented its own proposals for treatment proj… [+3414 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Uttarakhand tunnel collapse: Rescuers look at new options to save trapped workers",
+        "description": "A week after a tunnel collapsed in northern India, officials consider fresh approaches to reach workers.",
+        "url": "https://www.bbc.co.uk/news/world-asia-india-67471018",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10B80/production/_131708486_gettyimages-1779070178.jpg",
+        "publishedAt": "2023-11-20T06:48:42Z",
+        "content": "Rescuers in India are looking at fresh options to save 41 workers trapped in a tunnel for the past eight days. \r\nNew plans had to be conceived after work to push in metal pipes through the debris wal… [+2282 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Uttarakhand tunnel collapse: First video emerges of trapped Indian workers",
+        "description": "The 41 workers have been trapped in an under-construction tunnel in northern India since 12 November.",
+        "url": "https://www.bbc.co.uk/news/world-asia-india-67482481",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14A61/production/_131777548_tunnel2.png",
+        "publishedAt": "2023-11-21T06:00:28Z",
+        "content": "Media caption, Watch the first video of trapped tunnel workers in Indias Uttarakhand\r\nA camera has captured footage of the 41 workers trapped in a tunnel in India's Uttarakhand state for the first ti… [+2997 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Uttarakhand tunnel collapse: Rescued India workers tell of yoga and phone games",
+        "description": "The 41 men are recuperating in hospital after being trapped in a tunnel in Uttarakhand state for 17 days.",
+        "url": "https://www.bbc.co.uk/news/world-asia-india-67563170",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F90A/production/_131845736_gettyimages-1807532873-1.jpg",
+        "publishedAt": "2023-11-29T06:41:22Z",
+        "content": "The 41 Indian workers rescued from a tunnel in Uttarakhand state after being trapped inside for 17 days are safe and recuperating in hospital.\r\nIn a video released to the media, they can be seen eati… [+4015 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "US thwarts plot to kill Sikh separatist on American soil - report",
+        "description": "The target was Sikh separatist Gurpatwant Singh Pannun, the Financial Times reports.",
+        "url": "https://www.bbc.co.uk/news/world-us-canada-67501595",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AE69/production/_131794644_gettyimages-1686448431.jpg",
+        "publishedAt": "2023-11-22T19:56:32Z",
+        "content": "The US has raised an alleged plot to kill a Sikh separatist on American soil at the \"senior-most\" levels with India, the White House says.\r\nAccording to the Financial Times, the target was Gurpatwant… [+3339 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Chandrayaan-3: India Moon mission's propulsion module returns to Earth's orbit",
+        "description": "Isro says the return of Chandrayaan-3's propulsion module is significant for future manned missions.",
+        "url": "https://www.bbc.co.uk/news/world-asia-india-67621968",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6A6F/production/_130674272_screen_grab_03.jpg",
+        "publishedAt": "2023-12-05T12:19:11Z",
+        "content": "India's space agency Isro says it has successfully brought back into Earth's orbit a part of the rocket that carried its historic Moon mission recently.\r\nThe \"propulsion module\" had detached from the… [+3046 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Slashdot.org"
+        },
+        "author": "msmash",
+        "title": "India Seeks To Regulate Deepfakes",
+        "description": "India is drafting rules to detect and limit the spread of deepfake content and other harmful AI media, a senior lawmaker said Thursday, following reports of proliferation of such content on social media platforms in recent weeks. From a report: Ashwini Vaishn…",
+        "url": "https://slashdot.org/story/23/11/23/194259/india-seeks-to-regulate-deepfakes",
+        "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+        "publishedAt": "2023-11-23T21:00:00Z",
+        "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Article 370: Supreme Court to deliver verdict on Kashmir's special status",
+        "description": "In August 2019, the BJP-led government had stripped the state of Jammu and Kashmir of its special status.",
+        "url": "https://www.bbc.co.uk/news/world-asia-india-67634689",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1F95/production/_131958080_gettyimages-1022374138-594x594.jpg",
+        "publishedAt": "2023-12-11T04:14:04Z",
+        "content": "India's top court is due to give its verdict on pleas challenging the revocation of special status for the former state of Jammu and Kashmir.\r\nIn August 2019, the BJP-led government revoked Article 3… [+4092 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "State poll results: Key wins boost Indian PM Modi's re-election bid",
+        "description": "The BJP is poised to win in three states, while Congress is ahead in the southern state of Telangana.",
+        "url": "https://www.bbc.co.uk/news/world-asia-india-67605339",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16B3E/production/_131909929_gettyimages-1768334265-594x594.jpg",
+        "publishedAt": "2023-12-03T10:44:16Z",
+        "content": "Narendra Modi's Bharatiya Janata Party (BJP) is poised to win three of the four key state elections in India ahead of the crucial general elections next year. \r\nThe BJP has a commanding lead in the s… [+4290 chars]"
+    },
+    {
+        "source": {
+            "id": "engadget",
+            "name": "Engadget"
+        },
+        "author": "Will Shanklin",
+        "title": "PlayStation’s 2023 Wrap-Up recaps your year in gaming",
+        "description": "Sony’s 2023 Wrap-Up is now available. The recap, similar to those from music streaming services, reflects on your PS5 or PS4 gaming habits from the past year. The new version will sum up your most-played games, tally your total hours and assign an algorithmic…",
+        "url": "https://www.engadget.com/playstations-2023-wrap-up-recaps-your-year-in-gaming-190838612.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oNlE5OTIsBuSvSM0zKVlxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/8c62f1a0-991d-11ee-bf4d-14d95ce0159d",
+        "publishedAt": "2023-12-12T19:08:38Z",
+        "content": "Sonys 2023 Wrap-Up is now available. The recap, similar to those from musicstreamingservices, reflects on your PS5 or PS4 gaming habits from the past year. The new version will sum up your most-playe… [+1414 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Android Central"
+        },
+        "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda)",
+        "title": "Phone pricing is getting out of hand in India",
+        "description": "Want to buy a flagship in India? You'll have to pay quite a lot of money — even more so than other regions.",
+        "url": "https://www.androidcentral.com/phones/phone-pricing-is-getting-out-of-hand-in-india",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/cTHzaDuBgEHxJPTDotEZyN-1200-80.jpg",
+        "publishedAt": "2023-12-06T07:57:33Z",
+        "content": "I know what you're thinking — phone pricing is getting ridiculous everywhere, so why should India be any different? That's a valid point; I remember covering the Galaxy S9 launch back in 2018 and thi… [+5333 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Makezine.com"
+        },
+        "author": "Jennifer Blakeslee",
+        "title": "India Gets Busy @ Maker Faire Hyderabad This Weekend",
+        "description": "This weekend, India's largest celebration of makers takes place at India's largest and newest innovation hub - T-Works in the central Indian city of Hyderabad. \nThe post India Gets Busy @ Maker Faire Hyderabad This Weekend appeared first on Make: DIY Projects…",
+        "url": "https://makezine.com/article/maker-news/india-gets-busy-maker-faire-hyderabad-this-weekend/",
+        "urlToImage": "https://makezine.com/wp-content/uploads/2023/12/makerfairehyd.jpeg",
+        "publishedAt": "2023-12-09T06:32:03Z",
+        "content": "WEBSITE I FACEBOOK I X I INSTAGRAM I YOUTUBE\r\nThis weekend, India’s largest celebration of makers takes place at India’s largest and newest innovation hub – T-Works in the central Indian city of Hyde… [+1644 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MacRumors"
+        },
+        "author": "Tim Hardwick",
+        "title": "Make iPhone 16 Batteries in India, Apple Tells Component Suppliers",
+        "description": "Apple has told component suppliers it wants iPhone 16 batteries to be made in India, as part of the company's efforts to diversify its global supply chain and reduce its reliance on Chinese manufacturing.\n\n\n\nLeaked image of alleged iPhone 16 Pro battery with …",
+        "url": "https://www.macrumors.com/2023/12/06/make-iphone-16-batteries-in-india-apple/",
+        "urlToImage": "https://images.macrumors.com/t/xxUM6HDg9DncLudujznM2bf0Ljk=/2500x/article-new/2023/11/iPhone-16-Mock-Header-Updated-1.jpg",
+        "publishedAt": "2023-12-06T12:08:07Z",
+        "content": "Apple has told component suppliers it wants iPhone 16 batteries to be made in India, as part of the company's efforts to diversify its global supply chain and reduce its reliance on Chinese manufactu… [+1422 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ReadWrite"
+        },
+        "author": "Sam Shedden",
+        "title": "AMD opens huge design centre in India",
+        "description": "Advanced Micro Devices (AMD) has opened its largest global design center in India. The state-of-the-art campus in the city of […]\nThe post AMD opens huge design centre in India appeared first on ReadWrite.",
+        "url": "https://readwrite.com/amd-opens-huge-design-centre-in-india/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2023/11/5646102132_4486c65e22_c.jpg",
+        "publishedAt": "2023-11-29T13:22:50Z",
+        "content": "Advanced Micro Devices (AMD) has opened its largest global design center in India.\r\nThe state-of-the-art campus in the city of Bengaluru will employ around 3,000 engineers in the coming years and foc… [+1853 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ReadWrite"
+        },
+        "author": "Paul McNally",
+        "title": "PlayStation launches its VR2 headset in India",
+        "description": "The Sony PlayStation VR2 – the second-generation virtual reality headset for the console has been launched in India, almost a […]\nThe post PlayStation launches its VR2 headset in India appeared first on ReadWrite.",
+        "url": "https://readwrite.com/playstation-launches-its-vr2-headset-in-india/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2023/12/vr2.jpg",
+        "publishedAt": "2023-12-11T10:53:33Z",
+        "content": "The Sony PlayStation VR2 – the second-generation virtual reality headset for the console has been launched in India, almost a year after it launched successfully in the West.\r\nPriced from Rs 57,990 f… [+1634 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Slashdot.org"
+        },
+        "author": "msmash",
+        "title": "India Calls Out Inequalities at COP28 Climate Summit",
+        "description": "India wants to be the voice of the global south in the negotiations. But can the world's most populous nation cut its massive coal use? From a report: India is pitching itself as a leader of the global south at the 28th United Nations Climate Change Conferenc…",
+        "url": "https://news.slashdot.org/story/23/12/07/1044256/india-calls-out-inequalities-at-cop28-climate-summit",
+        "urlToImage": "https://a.fsdn.com/sd/topics/earth_64.png",
+        "publishedAt": "2023-12-07T14:00:00Z",
+        "content": "India is pitching itself as a leader of the global south at the 28th United Nations Climate Change Conference (COP28), under way in Dubai. During his opening speech at the meeting, Indian Prime Minis… [+1947 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ReadWrite"
+        },
+        "author": "Radek Zielinski",
+        "title": "India shares digital code to lift up developing nations",
+        "description": "In a major diplomatic move, India has launched the Global Digital Public Infrastructure Repository, a collection of open-source software code […]\nThe post India shares digital code to lift up developing nations appeared first on ReadWrite.",
+        "url": "https://readwrite.com/india-shares-digital-code-to-lift-up-developing-nations/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2023/11/India-shares-digital-code.jpg",
+        "publishedAt": "2023-11-24T22:30:25Z",
+        "content": "In a major diplomatic move, India has launched the Global Digital Public Infrastructure Repository, a collection of open-source software code created by governments to accelerate digital development … [+2166 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ReadWrite"
+        },
+        "author": "Brian-Damien Morgan",
+        "title": "Amazon loses second AWS India executive in 2023",
+        "description": "Amazon Web Services (AWS) has announced that Vaishali Kasture, the interim head of AWS India and South Asia has announced […]\nThe post Amazon loses second AWS India executive in 2023 appeared first on ReadWrite.",
+        "url": "https://readwrite.com/amazon-web-services-loses-second-indian-executive-in-2023/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2023/12/7402515654_e9d787ecf6_o-scaled.jpg",
+        "publishedAt": "2023-12-11T14:05:48Z",
+        "content": "Amazon Web Services (AWS) has announced that Vaishali Kasture, the interim head of AWS India and South Asia has announced her resignation.\r\nAWS, the world’s largest provider of cloud computing soluti… [+2212 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ReadWrite"
+        },
+        "author": "Graeme Hanna",
+        "title": "TDK to manufacture iPhone battery cells in India",
+        "description": "Japanese electronics multinational TDK Corporation has announced it will produce lithium-ion battery cells for Apple iPhones in India, as reports […]\nThe post TDK to manufacture iPhone battery cells in India appeared first on ReadWrite.",
+        "url": "https://readwrite.com/tdk-to-manufacture-iphone-battery-cells-in-india/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2023/12/istockphoto-858053178-2048x2048-1.jpg",
+        "publishedAt": "2023-12-04T11:34:09Z",
+        "content": "Japanese electronics multinational TDK Corporation has announced it will produce lithium-ion battery cells for Apple iPhones in India, as reports Reuters.\r\nThe news provides another boost to the Indi… [+2193 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ReadWrite"
+        },
+        "author": "Brian-Damien Morgan",
+        "title": "Apple to make a quarter of all iPhones in India",
+        "description": "Apple has begun plans to produce a quarter of the world’s iPhones in India alongside supplier Foxconn Technology Group, reports […]\nThe post Apple to make a quarter of all iPhones in India appeared first on ReadWrite.",
+        "url": "https://readwrite.com/apple-to-make-a-quarter-of-all-iphones-in-india/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2023/12/drew-coffman-K1MxhTd6SKo-unsplash-scaled.jpg",
+        "publishedAt": "2023-12-08T13:49:33Z",
+        "content": "Apple has begun plans to produce a quarter of the worlds iPhones in India alongside supplier Foxconn Technology Group, reports the Wall Street Journal.\r\nInsiders told the WSJ the production plans wou… [+1863 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Android Central"
+        },
+        "author": "techkritiko@gmail.com (Jay Bonggolto)",
+        "title": "The OnePlus 12 global launch date is finally set in stone",
+        "description": "OnePlus finally spilled the beans on the global launch date for the OnePlus 12 and 12R, while also confirming that the 12R is launching beyond India.",
+        "url": "https://www.androidcentral.com/phones/oneplus-12-global-launch-date",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/aZT4uuFbaz5yy9gwemE86h-1200-80.jpg",
+        "publishedAt": "2023-12-15T21:16:02Z",
+        "content": "<ul><li>OnePlus has officially scheduled the global launch date for the OnePlus 12 series, including the OnePlus 12R, on January 23, 2024.</li><li>Notably, the announcement reveals that the OnePlus 1… [+1997 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Huileng Tan",
+        "title": "Russia's fraught rupee oil trade is a warning for countries trying to abandon the dollar",
+        "description": "Moscow has encountered several complications since India insisted on paying for Russian oil in rupees rather than dollars.",
+        "url": "https://www.businessinsider.com/dedollarization-russia-fraught-india-rupee-oil-trade-warning-us-dollar-2023-11",
+        "urlToImage": "https://i.insider.com/65657d76fe5bc6545ebccee6?width=1200&format=jpeg",
+        "publishedAt": "2023-11-28T10:00:47Z",
+        "content": "Russian President Vladimir Putin and Indian Prime Minister Narendra Modi.Mikhail Svetlov/Getty Images\r\n<ul><li>Heavily sanctioned Russia is facing challenges from its dedollarization drive.</li><li>I… [+3228 chars]"
+    },
+    {
+        "source": {
+            "id": "time",
+            "name": "Time"
+        },
+        "author": "Ritumbra Manuvie and Alena Kahle",
+        "title": "When India Was a Human Rights Leader",
+        "description": "The country was once a rights pioneer that helped shape the Universal Declaration of Human Rights, which turns 75 on Dec. 10.",
+        "url": "https://time.com/6344207/india-human-rights-leader-undr/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2023/12/GettyImages-625799936.jpg?quality=85",
+        "publishedAt": "2023-12-09T10:00:00Z",
+        "content": "On Dec. 10, 1948, the world brought into existence the Universal Declaration of Human Rights, which established the modern system of human and civil rights as we know it today. It is because of the U… [+4417 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Android Central"
+        },
+        "author": "vishnu.skar@gmail.com (Vishnu Sarangapurkar)",
+        "title": "The upcoming OnePlus 12R might be more similar to the OnePlus 11",
+        "description": "OnePlus Ace series is confined to China; however, those devices are dubbed the 'R' series in other regions like India. OnePlus 12R is the OnePlus Ace 3 that is set to launch soon.",
+        "url": "https://www.androidcentral.com/phones/oneplus-12r-specs-leak-ahead-of-launch",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/P888maUCetfcPsTnHLiaEa-1200-80.jpg",
+        "publishedAt": "2023-12-07T17:55:19Z",
+        "content": "<ul><li>New leak reveals full spec list of the OnePlus 12R.</li><li>The specs, including the display, are identical to the OnePlus 11.</li><li>The OnePlus 12R will arrive as the OnePlus Ace 3 in Chin… [+2563 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Android Central"
+        },
+        "author": "bradypsnyder@gmail.com (Brady Snyder)",
+        "title": "Google Recorder update improves translation skills using the cloud",
+        "description": "The latest app update for Google Recorder adds \"transcribe again\" option that can translate recordings in 42 languages.",
+        "url": "https://www.androidcentral.com/apps-software/google-recorder-update-transcribe-again",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/mdGuURqDdx2PC2Ltpfzh7K-1200-80.jpg",
+        "publishedAt": "2023-12-16T04:05:18Z",
+        "content": "<ul><li>Google's latest update to the Recorder app adds a Transcribe again feature that can translate past recordings into 42 languages.</li><li>Transcribe again works with languages that are unsuppo… [+3694 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Lilian Manansala",
+        "title": "'Rat miners' rescue 41 men from India tunnel after machines failed",
+        "description": "A team of \"rat miners\" successfully rescued the 41 men who had been stranded in a highway tunnel in the Indian Himalayas for 17 days.",
+        "url": "https://www.businessinsider.com/rat-miners-india-tunnel-collapse-himalayas-rescue-operation-stranded-men2023-11",
+        "urlToImage": "https://i.insider.com/656659cffd6200867dd05b4a?width=1200&format=jpeg",
+        "publishedAt": "2023-11-28T21:36:00Z",
+        "content": "A team of \"rat miners\" successfully rescued the 41 men who had been stranded in a highway tunnel in the Indian Himalayas for 17 days. Rat-hole mining, once widely used for coal extraction, was banned… [+63 chars]"
+    },
+    {
+        "source": {
+            "id": "engadget",
+            "name": "Engadget"
+        },
+        "author": "Mat Smith",
+        "title": "The Morning After: Microsoft upgrades its Copilot chatbot",
+        "description": "Microsoft says its Copilot AI chatbot is integrating with OpenAI’s latest GPT model and the image generator DALL-E 3, among other upgrades. GPT-4 Turbo integration will help Copilot users tackle even more complex tasks. While the last generation allowed for u…",
+        "url": "https://www.engadget.com/the-morning-after-microsoft-upgrades-its-copilot-chatbot-121515889.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WCXnSPF9289Lgr0cxUTSsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/ea2ab060-941e-11ee-9fff-46c5fde21001",
+        "publishedAt": "2023-12-06T12:15:15Z",
+        "content": "Microsoft says its Copilot AI chatbot is integrating with OpenAIs latest GPT model and the image generator DALL-E 3, among other upgrades. GPT-4 Turbo integration will help Copilot users tackle even … [+3183 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Android Central"
+        },
+        "author": "tips@androidcentral.com (Nickolas Diaz)",
+        "title": "OnePlus 12R will also launch in North America and Europe",
+        "description": "OnePlus confirms its 12R mid-range will arrive in the U.S. and EU, alongside other global regions in January.",
+        "url": "https://www.androidcentral.com/phones/oneplus-12r-north-america-europe-launch-confirmed",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/xMD98DYshk3StkRJuHuj7a-1200-80.jpg",
+        "publishedAt": "2023-12-18T20:49:55Z",
+        "content": "<ul><li>OnePlus confirmed in a fireside chat that its mid-range 12R device will launch outside of India and China in 2024.</li><li>The device was previously restricted to India and China and is gener… [+2037 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Boing Boing"
+        },
+        "author": "Thom Dunn",
+        "title": "Scientists discover new frog that quacks like a duck",
+        "description": "A team of researchers from the Wildlife Institute of India and the University of Wolverhampton recently found an unexpected amphibian in the forest marsh of Namdapha-Kamlang in northeast India. As one of the scientists, Dr Deepak Veerappan, told the BBC:\n\n\n\n\n…",
+        "url": "https://boingboing.net/2023/12/10/scientists-discover-new-frog-that-quacks-like-a-duck.html",
+        "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/231204-Nidirana-noadihing-Cover-Image-scaled.jpeg?fit=1200%2C837&ssl=1",
+        "publishedAt": "2023-12-10T11:31:15Z",
+        "content": "A team of researchers from the Wildlife Institute of India and the University of Wolverhampton recently found an unexpected amphibian in the forest marsh of Namdapha-Kamlang in northeast India. As on… [+1534 chars]"
+    },
+    {
+        "source": {
+            "id": "time",
+            "name": "Time"
+        },
+        "author": "Iain Marlow, Laura Dhillon Kane / AP",
+        "title": "U.S. Queries India on Alleged Plot to Kill Sikh Separatist",
+        "description": "Biden's administration raised allegations that India was involved in a thwarted plot to assassinate a Sikh separatist living in America.",
+        "url": "https://time.com/6339244/us-india-sikh-separatist-alleged-murder-plot/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2023/11/GettyImages-1258977682.jpg?quality=85",
+        "publishedAt": "2023-11-23T14:05:42Z",
+        "content": "The Biden administration has raised allegations with top officials in New Delhi that India was involved in a thwarted plot to assassinate a Sikh separatist living in America, adding a new source of f… [+3650 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "The Associated Press",
+        "title": "India's ruling party wins 3 of 4 states in elections in a boost for prime minister",
+        "description": "India's ruling Hindu nationalist party won in three of four state elections in a vote that pitted the main opposition against that of Prime Minister Narendra Modi before national polls next year.",
+        "url": "https://www.npr.org/2023/12/04/1216886824/india-ruling-party-wins-elections",
+        "urlToImage": "https://media.npr.org/assets/img/2023/12/04/ap23337569698069_wide-3aaaba99af2fd82eab17dae192950bb96fe5d8ab-s1400-c100.jpg",
+        "publishedAt": "2023-12-04T06:11:44Z",
+        "content": "Indian Prime Minister Narendra Modi greets party worker during celebrations following Bharatiya Janata Party's victory in the state elections at the BJP headquarters in New Delhi, India, Sunday, Dec.… [+3083 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ReadWrite"
+        },
+        "author": "Graeme Hanna",
+        "title": "Apple warns India’s EU-style charger rules will hit local production target",
+        "description": "Apple has warned India that its local production targets will be impacted if it follows the lead of the European […]\nThe post Apple warns India’s EU-style charger rules will hit local production target appeared first on ReadWrite.",
+        "url": "https://readwrite.com/apple-warns-indias-eu-style-charger-rules-will-hit-local-production-target/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2023/12/Apple-EU-style-charger-rules.jpg",
+        "publishedAt": "2023-12-05T22:37:50Z",
+        "content": "Apple has warned India that its local production targets will be impacted if it follows the lead of the European Union to require existing iPhones to have universal charging ports.\r\nA Reuters report … [+2076 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Delhi pollution: Indian Supreme Court's 40-year quest to clean foul air",
+        "description": "The Supreme Court has a mixed record in cleaning up pollution in India's capital.",
+        "url": "https://www.bbc.co.uk/news/world-asia-india-67411826",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E5F7/production/_131717885_gettyimages-621562556-594x594.jpg",
+        "publishedAt": "2023-11-27T00:44:03Z",
+        "content": "Pollution in India's capital Delhi has made global headlines in recent years, but it's not a new problem. For around four decades, the country's top court has actively discussed the issue, sometimes … [+6699 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Blog.google"
+        },
+        "author": "Freya SalwayHead of Google Arts & Culture Lab",
+        "title": "Create a festive jingle with instruments from around the world",
+        "description": "Generate, play and compose music inspired by instruments across the globe with the help of Google AI by Artist in Residence, Simon Doury.",
+        "url": "https://blog.google/outreach-initiatives/arts-culture/google-arts-culture-new-music-ai-experiment/",
+        "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Instrument_Playground_Hero_01.gif",
+        "publishedAt": "2023-12-01T17:00:00Z",
+        "content": "Have you ever played the Veena from India or the Dizi from China or the Mbria from Zimbabwe?\r\nChoose one of over 100 instruments from around the world youd like to play and Music LM will generate a 2… [+384 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "SIBI ARASU Associated Press",
+        "title": "India builds its largest renewable energy project in salt deserts",
+        "description": "Shifting to renewable energy is a key issue at the ongoing COP28 climate summit",
+        "url": "https://abcnews.go.com/Business/wireStory/salt-deserts-bordering-pakistan-india-builds-largest-renewable-105378304",
+        "urlToImage": "https://i.abcnewsfe.com/a/45860a3d-eff0-4bfc-89ec-cd2d11d05054/wirestory_30d82470f77ed643d1dd949bfa263399_16x9.jpg?w=992",
+        "publishedAt": "2023-12-05T06:06:37Z",
+        "content": "KHAVDA, India -- Rising from the bare expanse of the large salt desert that separates India from Pakistan is what will likely be the world's largest renewable energy project when completed three year… [+7860 chars]"
+    },
+    {
+        "source": {
+            "id": "time",
+            "name": "Time"
+        },
+        "author": "ASHOK SHARMA / AP",
+        "title": "India Opens an Investigation After U.S. Says It Disrupted a Plot to Kill Sikh Separatist Leader",
+        "description": "India has set up a high-level inquiry after U.S. authorities raised concerns with New Delhi over a plot to kill a Sikh separatist on American soil.",
+        "url": "https://time.com/6340620/india-investigation-us-plot-kill-sikh-separatist/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2023/11/GettyImages-1500625892.jpg?quality=85",
+        "publishedAt": "2023-11-29T13:35:39Z",
+        "content": "NEW DELHI India has set up a high-level inquiry after U.S. authorities raised concerns with New Delhi that its government may have had knowledge of a plot to kill a Sikh separatist leader on American… [+1548 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Kwan Wei Kevin Tan,Lloyd Lee",
+        "title": "The Starbucks CEO's 'favorite go-to drink' at the coffee chain costs around $3",
+        "description": "\"My favorite go-to drink at Starbucks is the Doppio Espresso Macchiato with some hot milk on the side,\" Starbucks CEO Laxman Narasimhan told Fortune.",
+        "url": "https://www.businessinsider.com/starbucks-new-ceo-favorite-drink-costs-around-3-dollars-2023-11",
+        "urlToImage": "https://i.insider.com/6563fc5dfe5bc6545ebc201e?width=1200&format=jpeg",
+        "publishedAt": "2023-11-27T03:14:27Z",
+        "content": "Laxman Narasimhan was named CEO of Starbucks in September 2022 and officially took the reins in March.JP Yim via Getty Images; Jeffrey Greenberg/Universal Images Group via Getty Images\r\n<ul><li>Starb… [+1754 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Senior US official visits India, discusses alleged plot to kill Sikh separatist",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e4c41335-c3ac-4779-b6ad-9915704d9faf",
+        "urlToImage": null,
+        "publishedAt": "2023-12-04T23:14:59Z",
+        "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 239 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Heavy Rain Causes Flooding in Chennai as Cyclone Michaung Nears India",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9000b62a-c5e3-41b7-8765-7bace886c377",
+        "urlToImage": null,
+        "publishedAt": "2023-12-04T09:45:06Z",
+        "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 239 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Record high gold prices add to post-festival lull in India demand",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5840b754-b0b2-4433-92f5-8f0bc955e10e",
+        "urlToImage": null,
+        "publishedAt": "2023-12-01T12:35:29Z",
+        "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 239 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "India court allows survey of centuries-old mosque to look for Hindu relics",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ad8ae5cc-7ea3-437d-b347-d82990e05d76",
+        "urlToImage": null,
+        "publishedAt": "2023-12-14T12:07:59Z",
+        "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Japan condemns Yemen's Houthi rebels hijack of cargo ship in Red Sea",
+        "description": "The rebels seized the car carrier in the Red Sea, claiming it was Israeli - but Israel says it is UK-owned.",
+        "url": "https://www.bbc.co.uk/news/world-middle-east-67470711",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BC3A/production/_131768184_43aa4cc9ece097c5ca005f688820824ae2c777150_337_2736_15391000x563.jpg",
+        "publishedAt": "2023-11-20T04:41:36Z",
+        "content": "Japan's government has strongly condemned the hijacking of a Japanese-operated cargo ship in the Red Sea by Iran-backed Houthi rebels.\r\nThe Yemeni militia claimed the ship was Israeli, but a Japanese… [+2550 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Jacob Shamsian",
+        "title": "An Indian government official directed a plot to assassinate a Sikh US citizen on American soil, feds say — and more attempts were planned",
+        "description": "The same Indian official appeared to be involved in the assassination of a Sikh separatist in Canada earlier this year, according to a new indictment.",
+        "url": "https://www.businessinsider.com/india-government-official-us-canada-assassination-plots-2023-11",
+        "urlToImage": "https://i.insider.com/65677038fd6200867dd09e20?width=1200&format=jpeg",
+        "publishedAt": "2023-11-29T17:38:26Z",
+        "content": "President Joe Biden and Indian Prime Minister Narendra Modi attend an arrival ceremony on the South Lawn of the White House.Chen Mengtong/China News Service/VCG via Getty Images\r\n<ul><li>An Indian go… [+7333 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Android Central"
+        },
+        "author": "vishnu.skar@gmail.com (Vishnu Sarangapurkar)",
+        "title": "More OnePlus phones grab stable Android 14 builds",
+        "description": "OnePlus has been effectively pushing stable builds of OxygenOS 14 to its flagships lately, and this week, the company's mid-range handsets join the list.",
+        "url": "https://www.androidcentral.com/apps-software/oneplus-10t-oneplus-11r-receive-oxygenos-14-stable-build",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/UnTjfSBP6Mo8mCBLHct58F-1200-80.jpg",
+        "publishedAt": "2023-12-06T20:14:32Z",
+        "content": "<ul><li>OnePlus has announced an Android-14-based OxygenOS 14 build (stable) for the OnePlus 10T.</li><li>It brings the new Fluid Cloud feature to the handset, which is the OnePlus equivalent of Appl… [+3363 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Ted.com"
+        },
+        "author": "Yordanos Eyoel, contact@ted.com (TED)",
+        "title": "How to build a global pro-democracy movement | Yordanos Eyoel",
+        "description": "\"Democracy is the most compelling vision we have for self-governance,\" says freedom advocate Yordanos Eyoel. Taking a stand against predatory and opportunist authoritarian forces, she shares how to reimagine, accelerate and protect the pro-democracy movement …",
+        "url": "https://www.ted.com/talks/yordanos_eyoel_how_to_build_a_global_pro_democracy_movement",
+        "urlToImage": "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/fe107b5a-0d3f-4795-8373-94f2f8454a87/YordanosEyoel_2023W-embed.jpg?u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=82c=1050%2C550&w=1050",
+        "publishedAt": "2023-12-15T15:35:33Z",
+        "content": "The \"Defending and Strengthening Diverse Democracies report\" is a culmination of a multi-month analysis consisting of literature review and interviews with 75+ civil society leaders from Brazil, Indi… [+400 chars]"
+    },
+    {
+        "source": {
+            "id": "time",
+            "name": "Time"
+        },
+        "author": "Solcyre Burga",
+        "title": "The Weeks-Long Effort to Rescue 41 Construction Workers Trapped in a Tunnel in India",
+        "description": "Rescue teams are hoping to free the 41 construction workers that have been trapped in a tunnel in northern India for more than two weeks as they attempt to hand drill the workers to freedom.",
+        "url": "https://time.com/6340140/41-construction-workers-trapped-tunnel-india/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2023/11/Workers.jpg?quality=85",
+        "publishedAt": "2023-11-27T19:45:16Z",
+        "content": "Rescue teams are hoping to free the 41 construction workers who have been trapped in a tunnel in northern India for more than two weeks, attempting to hand drill the workers out. \r\nRescuers are attem… [+3481 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Filip De Mott",
+        "title": "Foreign investors have now taken out most of the money they put in China's stock market this year",
+        "description": "Foreign investors have dumped more than $25 billion of Chinese shares, meaning 77% of the money invested earlier this year is gone.",
+        "url": "https://markets.businessinsider.com/news/stocks/foreign-investors-retreat-stimulus-chine-economy-growth-stock-market-csi300-2023-11",
+        "urlToImage": "https://i.insider.com/6475f025085acb0018fedbcf?width=1200&format=jpeg",
+        "publishedAt": "2023-11-21T16:20:15Z",
+        "content": "Chinese President Xi JinpingJohannes Eisele/AFP/Getty Images\r\n<ul>\n<li>Foreign investors have dumped more than $25 billion worth of Chinese shares this year, the Financial Times said.</li>\n<li>That m… [+1905 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Overseas staff 'exploited and trapped' at UK care home",
+        "description": "Care home staff say they feel exploited and trapped by the firm that brought them to the UK to work.",
+        "url": "https://www.bbc.co.uk/news/uk-67684417",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9228/production/_132061473_promocrop.png",
+        "publishedAt": "2023-12-18T06:02:41Z",
+        "content": "Care home staff have told the BBC they feel exploited and trapped by the firm that brought them to the UK to work. \r\nEmployees at Prestwick Care told an undercover Panorama reporter they believed the… [+10490 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ReadWrite"
+        },
+        "author": "Radek Zielinski",
+        "title": "Prosus cuts India’s edtech star Byju’s valuation to $19bn",
+        "description": "Education technology company Byju’s, once India’s highest-valued startup at over $22 billion, has seen its valuation plummet to below $3 […]\nThe post Prosus cuts India’s edtech star Byju’s valuation to $19bn appeared first on ReadWrite.",
+        "url": "https://readwrite.com/prosus-cuts-indias-edtech-star-byjus-valuation-to-19bn/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2023/11/800px-Byju_Raveendran_at_BYJUs_5th_Anniversary_Celebration_-_2017_-_Image_21.jpg",
+        "publishedAt": "2023-11-29T14:46:00Z",
+        "content": "Education technology company Byju’s, once India’s highest-valued startup at over $22 billion, has seen its valuation plummet to below $3 billion, according to major investor Prosus, a recent TechCrun… [+2487 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ReadWrite"
+        },
+        "author": "Radek Zielinski",
+        "title": "Tribe Capital in $100M funding talks with India’s Shiprocket: reports",
+        "description": "Shiprocket, an Indian logistics and shipping software startup, is currently in funding talks with venture capital firm Tribe Capital. According […]\nThe post Tribe Capital in $100M funding talks with India’s Shiprocket: reports appeared first on ReadWrite.",
+        "url": "https://readwrite.com/tribe-capital-in-100m-funding-talks-with-indias-shiprocket-reports/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2023/12/pexels-pixabay-163726-scaled.jpg",
+        "publishedAt": "2023-12-12T11:34:25Z",
+        "content": "Shiprocket, an Indian logistics and shipping software startup, is currently in funding talks with venture capital firm Tribe Capital. According to an anonymous source familiar with the matter cited i… [+2235 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ReadWrite"
+        },
+        "author": "Ali Rees",
+        "title": "InoxCVA IPO: India’s cryogenic tank maker fully subscribed on first day",
+        "description": "Inox India’s initial public offering (IPO) opened on Dec. 14th at Rs 627-Rs 660 ($7.52 – $7.92) per share and […]\nThe post InoxCVA IPO: India’s cryogenic tank maker fully subscribed on first day appeared first on ReadWrite.",
+        "url": "https://readwrite.com/inoxcva-india-ipo-cryogenic-tank-maker-fully-subscribed-on-first-day/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2023/12/DALL·E-2023-12-14-12.11.24-A-conceptual-image-of-_INOXCVA_-an-Indian-cryogenics-company-without-any-people-in-the-scene.-The-focus-is-on-a-futuristic-industrial-environment-fe.png",
+        "publishedAt": "2023-12-14T12:12:54Z",
+        "content": "Inox India’s initial public offering (IPO) opened on Dec. 14th at Rs 627-Rs 660 ($7.52 – $7.92) per share and fully subscribed after the first day, reports India Today.\r\nThe offering is not due to cl… [+1786 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Boing Boing"
+        },
+        "author": "David Pescovitz",
+        "title": "Fake toll plaza operates for over a year, scamming motorists out of millions",
+        "description": "Police in Gujarat, India busted five people who operated a fake toll plaza on bypass roads. Incredibly, the scam has been operating for 18 months. Smartly, the crooks charged less in tolls than the official government did at the real toll booth. — Read the re…",
+        "url": "https://boingboing.net/2023/12/11/fake-toll-plaza-operates-for-over-a-year-scamming-motorists-out-of-millions.html",
+        "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/shutterstock_1116515114-scaled.jpg?fit=1200%2C801&ssl=1",
+        "publishedAt": "2023-12-11T17:40:51Z",
+        "content": "Police in Gujarat, India busted five people who operated a fake toll plaza on bypass roads. Incredibly, the scam has been operating for 18 months. Smartly, the crooks charged less in tolls than the o… [+514 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Madison Hoff",
+        "title": "The 11 least expensive cities in the world",
+        "description": "The Economist Intelligence Unit highlighted in a new report Damascus, Syria, as the least expensive city among 173 cities.",
+        "url": "https://www.businessinsider.com/cost-of-living-least-expensive-cities-world-eiu-report-2023-12",
+        "urlToImage": "https://i.insider.com/656f920158e7c0c29a29e880?width=1200&format=jpeg",
+        "publishedAt": "2023-12-07T14:43:20Z",
+        "content": "A recent report indicated Damascus, Syria, is the least expensive city among 173 cities that were part of the analysis.Mohammad Ali Bazzi/Getty Images\r\n<ul><li>Damascus, Syria, is the least expensive… [+2963 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Uttarakhand tunnel collapse: How the 17-day India rescue unfolded",
+        "description": "Forty-one construction workers were freed after over two weeks trapped in a tunnel.",
+        "url": "https://www.bbc.co.uk/news/av/world-asia-india-67560658",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/48AC/production/_131840681_p0gwgjmb.jpg",
+        "publishedAt": "2023-11-28T18:14:14Z",
+        "content": "India has celebrated the rescue of 41 construction workers who had been trapped in a collapsed tunnel in the Himalayas for 17 days.\r\nThe workers were greeted with applause and traditional marigold ga… [+228 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Cyclone Michaung to make landfall in India on Tuesday",
+        "description": "Thousands are evacuated and cars are swept away in southern India as Cyclone Michaung approaches.",
+        "url": "https://www.bbc.co.uk/news/world-asia-67617727",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/175E0/production/_131921759_766627aea87385ab7ab042b0ebfefb1c75a33b28.jpg",
+        "publishedAt": "2023-12-04T17:54:00Z",
+        "content": "Heavy rains and strong winds from a severe cyclonic storm have been battering India's southern coast with reports that several people have died.\r\nThousands of people living in low lying areas have be… [+2246 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Slashdot.org"
+        },
+        "author": "msmash",
+        "title": "That Call Center Tech Scammer Could Be a Human Trafficking Victim",
+        "description": "Human trafficking to staff cyber scam call centers, once isolated to Southeast Asia, has expanded beyond the region, according to an Interpol investigation revealing new evidence of abuse in South America and the Middle East. Previous hotspots since 2021 were…",
+        "url": "https://it.slashdot.org/story/23/12/11/0618233/that-call-center-tech-scammer-could-be-a-human-trafficking-victim",
+        "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+        "publishedAt": "2023-12-11T18:00:00Z",
+        "content": "The latest five-month operation discovered that victims from Malaysia were being trafficked to work in Peruvian call centers and Ugandan victims were being trafficked to Dubai for the same reason, on… [+698 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "PJ Rickards",
+        "title": "How farmers in one Indian village crafted the most expensive nutmeg and mace",
+        "description": "A kilogram of Pollachi mace sells for around $50 — more costly than mace from India's lead producer, Kerala, which sells for $35 per kilogram.",
+        "url": "https://www.businessinsider.com/why-spices-nutmeg-and-mace-are-so-expensive-2023-11",
+        "urlToImage": "https://i.insider.com/655b82ab22cf74a5739a1c0f?width=1200&format=jpeg",
+        "publishedAt": "2023-11-20T17:47:59Z",
+        "content": "Nutmeg and mace are two separate spices found in the same fruit. Both have long been valued for their fragrance, flavor, and medicinal properties. India is the lead consumer of nutmeg as well as one … [+491 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Boing Boing"
+        },
+        "author": "Jennifer Sandlin",
+        "title": "How long can you listen to this over-five-hour rendition of \"The Song That Doesn't End\"?",
+        "description": "As I write this, I'm 52 minutes into this five-and-a-half hour rendition of \"The Song That Doesn't End,\" recorded by Jordan Nicola Bridget Raskopoulos (formerly of the Australian comedy music group Axis of Awesome, who created the brilliant \"Four Chord Song\")…",
+        "url": "https://boingboing.net/2023/12/06/how-long-can-you-listen-to-this-over-five-hour-rendition-of-the-song-that-doesnt-end.html",
+        "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2016/12/Earworm_character.jpg?fit=517%2C347&ssl=1",
+        "publishedAt": "2023-12-06T11:58:40Z",
+        "content": "As I write this, I'm 52 minutes into this five-and-a-half hour rendition of \"The Song That Doesn't End,\" recorded by Jordan Nicola Bridget Raskopoulos (formerly of the Australian comedy music group A… [+1648 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ReadWrite"
+        },
+        "author": "Sam Shedden",
+        "title": "TikTok trends 2023: Top viral videos this year, revealed",
+        "description": "TikTok, love it or hate it, there’s no denying the impact of the world’s fastest-growing social media platform. As 2023 […]\nThe post TikTok trends 2023: Top viral videos this year, revealed appeared first on ReadWrite.",
+        "url": "https://readwrite.com/tiktok-trends-2023-reveals-top-viral-videos-this-year/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2023/12/eyestetix-studio-OYXkhsyB4J8-unsplash.jpg",
+        "publishedAt": "2023-12-06T15:07:00Z",
+        "content": "TikTok, love it or hate it, there’s no denying the impact of the world’s fastest-growing social media platform. As 2023 draws to a close the company has revealed the most popular trends and videos of… [+3227 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "The Associated Press",
+        "title": "Rescuers in India hope to resume drilling to evacuate 41 trapped workers",
+        "description": "Rescuers in India racing to evacuate 41 construction workers who have been trapped in a collapsed tunnel for nearly two weeks are hoping to resume drilling after a mechanical problem forced them to halt",
+        "url": "https://abcnews.go.com/International/wireStory/rescuers-india-hope-resume-drilling-evacuate-41-trapped-105133303",
+        "urlToImage": "https://i.abcnewsfe.com/a/3776c356-5815-4200-b9cc-533b947155cd/wirestory_d65a50a1a1ebcb263ded9317abef010a_16x9.jpg?w=992",
+        "publishedAt": "2023-11-24T12:54:21Z",
+        "content": "UTTARKASHI, India -- Rescuers racing to evacuate 41 construction workers who have been trapped in a collapsed tunnel in northern India for nearly two weeks are hoping to resume drilling on Friday aft… [+3360 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Parkinson's Disease: 'You can have a career after diagnosis'",
+        "description": "A hospital nurse tells of her experience after her \"overwhelming\" Parkinson's Disease diagnosis.",
+        "url": "https://www.bbc.co.uk/news/uk-england-norfolk-67618326",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2F6E/production/_131924121_2b55e8154851691ade1c789ebc0796258a9c2a6b0_336_4032_22672000x1125.jpg",
+        "publishedAt": "2023-12-08T02:30:18Z",
+        "content": "Tincy Jose is a junior sister working in urgent care at the Queen Elizabeth Hospital in King's Lynn, Norfolk. When the 45-year-old reported symptoms to her GP, she said a diagnosis of Parkinson's Dis… [+6709 chars]"
+    },
+    {
+        "source": {
+            "id": "engadget",
+            "name": "Engadget"
+        },
+        "author": "Igor Bonifacic",
+        "title": "When will your phone get Android 14?",
+        "description": "While Google may have officially released Android 14 at the start of October, there’s a good chance you’re still waiting for the update to arrive on your device. In recent years, the company has done its best to reduce the lag between when the latest version …",
+        "url": "https://www.engadget.com/when-will-your-phone-get-android-14-152432975.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qYtjm2k7_O18ARHtYgiZAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTg-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/f183e3f0-8883-11ee-9fde-27804cbc1b06",
+        "publishedAt": "2023-11-21T15:24:32Z",
+        "content": "While Google may have officially released Android 14 at the start of October, theres a good chance youre still waiting for the update to arrive on your device. In recent years, the company has done i… [+7254 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Android Central"
+        },
+        "author": "techkritiko@gmail.com (Jay Bonggolto)",
+        "title": "The Vivo X100 series is making its global debut with impressive camera gear",
+        "description": "Vivo has confirmed that the X100 series will be available in Asia, while Europe is only getting the Pro model.",
+        "url": "https://www.androidcentral.com/phones/vivo-x100-and-x100-pro-global-launch",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/dueE8YtjeHG2rW78V7rFYG-1200-80.jpg",
+        "publishedAt": "2023-12-15T05:19:33Z",
+        "content": "<ul><li>After debuting in China last month, Vivo's X100 and X100 Pro are gearing up for a global launch.</li><li>The X100 series is set to hit India and Indonesia, while Europe will exclusively recei… [+2584 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Qatar: Indian ambassador meets eight ex-naval officers on death row",
+        "description": "Media reports say the men have been charged with spying, but India and Qatar have not confirmed this.",
+        "url": "https://www.bbc.co.uk/news/world-asia-india-67656682",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/336D/production/_131956131_gettyimages-1297070538.jpg",
+        "publishedAt": "2023-12-08T05:25:04Z",
+        "content": "India's ambassador to Qatar has met eight former naval officers who have been sentenced to death in Qatar on unspecified charges.\r\nAn Indian foreign ministry spokesperson said that the diplomat met t… [+2090 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "AppleInsider"
+        },
+        "author": "news@appleinsider.com (Wesley Hilliard)",
+        "title": "Foxconn's expansion into India isn't going as well as hoped",
+        "description": "Apple supplier Foxconn is struggling to get its factories in India to operate efficiently, with employees citing language barriers, culture clashes, and difficulty adapting to strenuous schedules.FoxconnFoxconn began production of iPhone in India starting in …",
+        "url": "https://appleinsider.com/articles/23/11/30/foxconns-expansion-into-india-isnt-going-as-well-as-hoped",
+        "urlToImage": "https://photos5.appleinsider.com/gallery/57506-117131-IMG_4285-xl.jpg",
+        "publishedAt": "2023-11-30T03:48:18Z",
+        "content": "Foxconn\r\nApple supplier Foxconn is struggling to get its factories in India to operate efficiently, with employees citing language barriers, culture clashes, and difficulty adapting to strenuous sche… [+3297 chars]"
+    },
+    {
+        "source": {
+            "id": "reuters",
+            "name": "Reuters"
+        },
+        "author": "John Gruber",
+        "title": "India Is Considering EU-Style Charger Rules That Would Block Older iPhones From Sale",
+        "description": null,
+        "url": "https://www.reuters.com/technology/apple-warns-indias-eu-style-charger-rules-will-hit-local-production-target-2023-12-05/",
+        "urlToImage": null,
+        "publishedAt": "2023-12-06T01:32:59Z",
+        "content": "Aditya Kalra and Munsif Vengattil, reporting for Reuters from New Delhi:\n\n\n India wants to implement a European Union rule that will \nrequire smartphones to have a universal USB-C charging port, and … [+2181 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Uttarakhand tunnel collapse: Last-minute snag delays rescue of trapped workers",
+        "description": "Operations have resumed after rescuers cut through a steel obstacle that delayed them for a few hours.",
+        "url": "https://www.bbc.co.uk/news/world-asia-india-67506512",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12745/production/_131798557_a35b35518b74495d3397f24f2e29af7817e9071d0_636_5431_30552000x1125.jpg",
+        "publishedAt": "2023-11-23T09:44:14Z",
+        "content": "The operation to rescue 41 workers trapped inside a tunnel in India's Uttarakhand state has resumed after hitting a snag, officials say.\r\nThey hope to free the workers in the next 10-12 hours if thin… [+2825 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Sikkim: Satellite images show devastating Himalayan floods",
+        "description": "Before and after photos reveal the destruction caused by flash floods in India's Sikkim state in October.",
+        "url": "https://www.bbc.co.uk/news/world-asia-india-67678440",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14C9C/production/_131984158__131974867_1_after_20231009_035134_07_24b6_3b_visual_clip.png",
+        "publishedAt": "2023-12-12T04:33:50Z",
+        "content": "New satellite images show the extent of the damage caused by deadly flash floods that hit a village in India's north-eastern state of Sikkim in October.\r\nThe photos show how the Teesta river broke it… [+3352 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Juan Carlos López",
+        "title": "India quiere ser la nueva Taiwán en la industria de los chips. Se enfrenta incluso a más desafíos que China",
+        "description": "Taiwán lidera la industria de la fabricación de semiconductores con una contundencia indiscutible. Y TSMC es su joya de la corona. Esta compañía acapara actualmente alrededor del 54% del mercado de la producción de chips, y UMC, el otro gran fabricante taiwan…",
+        "url": "https://www.xataka.com/empresas-y-economia/india-quiere-ser-nueva-taiwan-industria-chips-se-enfrenta-incluso-a-desafios-que-china",
+        "urlToImage": "https://i.blogs.es/5f0578/tsmc-ap/840_560.jpeg",
+        "publishedAt": "2023-11-27T11:30:52Z",
+        "content": "Taiwán lidera la industria de la fabricación de semiconductores con una contundencia indiscutible. Y TSMC es su joya de la corona. Esta compañía acapara actualmente alrededor del 54% del mercado de l… [+3386 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "9to5Mac"
+        },
+        "author": "Ben Lovejoy",
+        "title": "iPhone 16 batteries should preferably be made in India, Apple tells suppliers",
+        "description": "As part of the company’s continuing work to reduce its dependence on China, Apple has reportedly told suppliers that it has a preference for iPhone 16 batteries being made in India.\n\n\n\nOne battery supplier which already manufactures in India has been asked to…",
+        "url": "https://9to5mac.com/2023/12/06/iphone-16-batteries/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/iPhone-16-batteries.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2023-12-06T15:00:19Z",
+        "content": "As part of the company’s continuing work to reduce its dependence on China, Apple has reportedly told suppliers that it has a preference for iPhone 16 batteries being made in India.\r\nOne battery supp… [+2972 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Anna Mani: The woman who transformed weather science in India",
+        "description": "Anna Mani, one of India's first women scientists, broke barriers to blaze a trail in meteorology.",
+        "url": "https://www.bbc.co.uk/news/world-asia-india-67634192",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2619/production/_131935790_annamani.jpg",
+        "publishedAt": "2023-12-07T22:33:06Z",
+        "content": "Long before climate change became a buzzword, an Indian woman was fighting the odds to make devices that would help people understand the environment better. But Anna Mani - one of the world's most p… [+6807 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "9to5Mac"
+        },
+        "author": "Ben Lovejoy",
+        "title": "USB-C charging port law in India could cause three big problems for Apple",
+        "description": "India is planning to copy the European Union’s USB-C charging port law, requiring all smartphones to adopt the standard, which poses three big problems for Apple – and not just in India.\n\n\n\nA new report today says that Apple is lobbying either for an exemptio…",
+        "url": "https://9to5mac.com/2023/12/05/usb-c-charging-port-law-india/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/USB-C-charging-port-law.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2023-12-05T13:00:49Z",
+        "content": "India is planning to copy the European Union’s USB-C charging port law, requiring all smartphones to adopt the standard, which poses three big problems for Apple and not just in India.\r\nA new report … [+3664 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Slashdot.org"
+        },
+        "author": "EditorDavid",
+        "title": "The US Military's AI 'Swarm' Initiatives Speed Pace of Hard Decisions About Autonomous Weapons",
+        "description": "AI employed by the U.S. military \"has piloted pint-sized surveillance drones in special operations forces' missions and helped Ukraine in its war against Russia,\" reports the Associated Press. \n\nBut that's the beginning. AI also \"tracks soldiers' fitness, pre…",
+        "url": "https://tech.slashdot.org/story/23/11/26/2329248/the-us-militarys-ai-swarm-initiatives-speed-pace-of-hard-decisions-about-autonomous-weapons",
+        "urlToImage": "https://a.fsdn.com/sd/topics/military_64.png",
+        "publishedAt": "2023-11-26T23:34:00Z",
+        "content": "AI employed by the U.S. military \"has piloted pint-sized surveillance drones in special operations forces' missions and helped Ukraine in its war against Russia,\" reports the Associated Press.But tha… [+1364 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Slashdot.org"
+        },
+        "author": "msmash",
+        "title": "World Facing 'Hellish' 3C of Climate Heating, UN Warns Before Cop28",
+        "description": "The world is on track for a \"hellish\" 3C of global heating, the UN has warned before the crucial Cop28 climate summit that begins next week in the United Arab Emirates. From a report: The report found that today's carbon-cutting policies are so inadequate tha…",
+        "url": "https://news.slashdot.org/story/23/11/20/1524204/world-facing-hellish-3c-of-climate-heating-un-warns-before-cop28",
+        "urlToImage": "https://a.fsdn.com/sd/topics/earth_64.png",
+        "publishedAt": "2023-11-20T15:23:00Z",
+        "content": "The report found that today's carbon-cutting policies are so inadequate that 3C of heating would be reached this century. Temperature records have already been obliterated in 2023 and intensifying he… [+947 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Slashdot.org"
+        },
+        "author": "msmash",
+        "title": "2024 is the Biggest Election Year in History",
+        "description": "Economist, in an interactive post: In 2024, countries with more than half the world's population -- over four billion people -- will send their citizens to the polls. But many elections are not fully free and fair. Some of these will have no meaningful influe…",
+        "url": "https://politics.slashdot.org/story/23/11/28/134214/2024-is-the-biggest-election-year-in-history",
+        "urlToImage": "https://a.fsdn.com/sd/topics/politics_64.png",
+        "publishedAt": "2023-11-28T14:00:00Z",
+        "content": "In 2024, countries with more than half the world's population -- over four billion people -- will send their citizens to the polls. But many elections are not fully free and fair. Some of these will … [+888 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Lawrence Bonk",
+        "title": "OnePlus 12 with Snapdragon 8 Gen 3 will be available globally January 23",
+        "description": "The OnePlus 12 has officially launched in China\r\n and now the company’s most powerful phone is coming to the rest of the world. OnePlus has announced global availability for January 23, including the US. All told, the company ways the phone will be available …",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_adc10339-7268-4e7c-aaed-67c7600e7257",
+        "urlToImage": null,
+        "publishedAt": "2023-12-15T16:26:10Z",
+        "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Will Shanklin",
+        "title": "Google’s new AI experiment composes abstract musical clips inspired by instruments",
+        "description": "Google’s new generative AI experiment lets you create music “inspired by” over 100 instruments worldwide. Instrument Playground starts by asking for a simple prompt containing a musical instrument’s name, optionally preceded by an adjective like “upbeat,” “st…",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3f5afdc9-6136-4c91-b924-912a62fe653d",
+        "urlToImage": null,
+        "publishedAt": "2023-12-01T20:37:32Z",
+        "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 239 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Lawrence Bonk",
+        "title": "Twitch to cease operations in South Korea over ‘prohibitively expensive’ network fees",
+        "description": "Twitch is leaving South Korea, with plans to cease all operations\r\n on February 27. This is due to ‘prohibitively expensive’ networking fees, according to CEO Dan Clancy. The news is a major bummer, as the country is one of the largest esports markets\r\n in th…",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0b912813-4fc4-4dc2-9bd5-754ed4873bce",
+        "urlToImage": null,
+        "publishedAt": "2023-12-06T16:30:41Z",
+        "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Walmart shifts to India from China for cheaper imports",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2523a843-0d1f-46c8-a991-63eb65ac234f",
+        "urlToImage": null,
+        "publishedAt": "2023-11-29T11:04:34Z",
+        "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 239 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "AppleInsider"
+        },
+        "author": "news@appleinsider.com (William Gallagher)",
+        "title": "iPhone maker Foxconn plans extra $1.54 billion plant in India",
+        "description": "Foxconn is doubling its investment in India with a further $1.54 billion going to a further manufacturing plant that is expected to produce iPhone.Production in a Foxconn facilityApart from pulling out of a $19.5 billion joint venture for processor manufactur…",
+        "url": "https://appleinsider.com/articles/23/11/29/iphone-maker-foxconn-plans-extra-154-billion-plant-in-india",
+        "urlToImage": "https://photos5.appleinsider.com/gallery/55295-112326-000-lead-Foxconn-xl.jpg",
+        "publishedAt": "2023-11-29T11:22:18Z",
+        "content": "Production in a Foxconn facility\r\nFoxconn is doubling its investment in India with a further $1.54 billion going to a further manufacturing plant that is expected to produce iPhone.\r\nApart from pulli… [+976 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "AppleInsider"
+        },
+        "author": "news@appleinsider.com (Peter Cohen)",
+        "title": "Foxconn pours another $1 billion into India expansion",
+        "description": "The Indian government announced this week approval of Foxconn's plan to invest an additional $1 billion in a manufacturing plant expected to produce the iPhone.Mumbai, IndiaThe Karnataka government acknowledged Tuesday it had approved a 139.11 billion rupee (…",
+        "url": "https://appleinsider.com/articles/23/12/13/foxconn-pours-another-1-billion-into-india-expansion",
+        "urlToImage": "https://photos5.appleinsider.com/gallery/54637-110448-51897-102940-50774-100235-50489-99331-18914-18533-india-mumbai-xl-xl-xl-xl-xl.jpg",
+        "publishedAt": "2023-12-13T14:23:17Z",
+        "content": "Mumbai, India\r\nThe Indian government announced this week approval of Foxconn's plan to invest an additional $1 billion in a manufacturing plant expected to produce the iPhone.\r\nThe Karnataka governme… [+1109 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Nikhil Gupta: India man accused of US murder plot appeals to court",
+        "description": "Nikhil Gupta has been accused by the US government of conspiring to assassinate a Sikh separatist leader.",
+        "url": "https://www.bbc.co.uk/news/world-asia-india-67725935",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A78F/production/_132059824_gettyimages-1686448431.jpg",
+        "publishedAt": "2023-12-15T10:00:25Z",
+        "content": "An Indian man accused of conspiring to kill a US-based Sikh separatist leader has asked India's top court to intervene in his case.\r\nNikhil Gupta has been charged by the US government with trying to … [+2268 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "Aaron Katersky",
+        "title": "Murder-for-hire plot targets Sikh separatist in New York",
+        "description": "Law enforcement officers uncovered the alleged scheme earlier this year.",
+        "url": "https://abcnews.go.com/US/murder-hire-plot-targets-sikh-separatist-new-york/story?id=105241802",
+        "urlToImage": "https://i.abcnewsfe.com/a/3f052ee7-f09f-4802-8d84-ccd1010bcef4/gurpatwant-singh-pannun-file-ap-jef-231129_1701276870015_hpMain_16x9.jpg?w=992",
+        "publishedAt": "2023-11-29T17:00:44Z",
+        "content": "An Indian national was charged Wednesday in New York with plotting to kill a Sikh separatist, a scheme uncovered earlier this year by a consortium of law enforcement officers working an undercover dr… [+1862 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "9to5Mac"
+        },
+        "author": "Ben Lovejoy",
+        "title": "Major ramp-up in Apple’s plans to shift production from China, as Foxconn quadruples investment in Indian plant",
+        "description": "We’re today learning of a major acceleration in plans to shift more production of Apple devices from China to India. In less than one year, Foxconn has increased its planned investment in an Indian plant by almost 400%.\n\n\n\nIt follows a recent report that Appl…",
+        "url": "https://9to5mac.com/2023/12/13/shift-production-from-china/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/Major-ramp-up-in-Apples-plans-to-shift-production-from-China.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2023-12-13T12:14:59Z",
+        "content": "We’re today learning of a major acceleration in plans to shift more production of Apple devices from China to India. In less than one year, Foxconn has increased its planned investment in an Indian p… [+2256 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Phandroid - News for Android"
+        },
+        "author": "Mike Viray",
+        "title": "Nothing’s India Boss Announces Exit from Company",
+        "description": "There are times when the backend workings behind the company might occasionally hit a rough patch.\nThe post Nothing’s India Boss Announces Exit from Company appeared first on Phandroid.",
+        "url": "https://phandroid.com/2023/12/18/nothings-india-boss-announces-exit-from-company/",
+        "urlToImage": "https://phandroid.com/wp-content/uploads/2021/02/nothing-logo.png",
+        "publishedAt": "2023-12-18T12:21:46Z",
+        "content": "Nothing’s continued reach into the consumer electronics industry has been quite an impressive journey so far, although like a lot of other big-name corporations, there are times when the backend work… [+1183 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Andrés P. Mohorte",
+        "title": "El verdadero tamaño de cada idioma del mundo, ilustrado en este estupendo gráfico",
+        "description": "Las fronteras se cuentan entre las creaciones humanas más fascinantes. El punto exacto en el que elegimos diferenciarnos los unos de los otros tiene mucho de arbitrario y de maleable, y por eso mismo permite multitud de experimentos. También su representación…",
+        "url": "https://www.xataka.com/magnet/verdadero-taman-cada-idioma-mundo-ilustrado-este-estupendo-grafico-1",
+        "urlToImage": "https://i.blogs.es/7f9ea5/mapamundi-idiomas/840_560.jpeg",
+        "publishedAt": "2023-11-28T10:33:10Z",
+        "content": "Las fronteras se cuentan entre las creaciones humanas más fascinantes. El punto exacto en el que elegimos diferenciarnos los unos de los otros tiene mucho de arbitrario y de maleable, y por eso mismo… [+3826 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Filip De Mott",
+        "title": "Cocoa prices hover at 45-year highs as lagging harvests kick off 3rd season of shortages",
+        "description": "Cocoa futures are trading at a level not seen since 1978, as bad weather and crop disease have caused major producers to fall behind on harvests.",
+        "url": "https://markets.businessinsider.com/news/commodities/cocoa-prices-futures-high-chocolate-nino-shortages-harvest-commodity-scarcity-2023-11",
+        "urlToImage": "https://i.insider.com/655b91ef4ca513d8242c45e7?width=1200&format=jpeg",
+        "publishedAt": "2023-11-20T18:18:18Z",
+        "content": "Dursun Aydemir/Anadolu Agency via Getty Images\r\n<ul>\n<li>Cocoa prices are hovering around 45-year highs as futures trade over $4,000 per metric ton.</li>\n<li>Bad weather and concerns over crop diseas… [+1574 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Jacobin.com"
+        },
+        "author": null,
+        "title": "A Global Movement for Union Solidarity with Palestine Is Underway",
+        "description": "From India to Canada to Belgium and many places in between, union members are standing up in solidarity with the Palestinian people, taking action to stop the flow of arms being used by Israel in its destructive war on Gaza.",
+        "url": "https://jacobin.com/2023/12/palestine-gaza-unions-workers-solidarity-international-movement-weapons-trade",
+        "urlToImage": "https://images.jacobinmag.com/wp-content/uploads/2023/12/15155242/GettyImages-1785454759.jpg",
+        "publishedAt": "2023-12-17T15:09:53Z",
+        "content": "An appeal from Palestinian unions for global solidarity has elicited unprecedented worker-led actions in Italy, Canada, India, Belgium, Spain, and the UK.\r\nIsraels military attack on Gaza has killed … [+6580 chars]"
+    },
+    {
+        "source": {
+            "id": "time",
+            "name": "Time"
+        },
+        "author": "Armani Syed",
+        "title": "How Israel-South Africa Relations Fell Apart Over Gaza",
+        "description": "Israel has recalled its ambassador to South Africa, as the African nation votes on whether to sever all diplomatic ties.",
+        "url": "https://time.com/6338391/israel-south-africa-relations-gaza/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2023/11/south-africa-palestine.jpg?quality=85",
+        "publishedAt": "2023-11-21T16:56:14Z",
+        "content": "Israel has recalled its ambassador, Eliav Belotserkovsky, to South Africa for consultations, as the African nation prepares to host a summit for world leaders and a vote on whether to shut down its I… [+3893 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Elias Chavez,Bethany Johnson,Abby Narishkin",
+        "title": "Photos show the process of collecting snake venom to produce life-saving anti-venom",
+        "description": "See the dangerous and intricate process of collecting venom from some of the worlds most toxic snakes and turning it into life saving anti-venom.",
+        "url": "https://www.businessinsider.com/photos-process-of-developing-anti-venom-snakebites-2023-11",
+        "urlToImage": "https://i.insider.com/6568dfff58e7c0c29a286d71?width=1200&format=jpeg",
+        "publishedAt": "2023-12-03T13:46:01Z",
+        "content": "A snakebites into cellophane covering the top of a shot glass and releases its venom into the glass.Jack Swart/Pablo Jimenez/Adityaman Singh/A.C. Fowler/Alana Yzola/ Business Insider\r\n<ul><li>As many… [+9005 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "AppleInsider"
+        },
+        "author": "news@appleinsider.com (William Gallagher)",
+        "title": "Apple wants suppliers to make iPhone 16 batteries in India instead of China",
+        "description": "As its latest step in cutting its reliance on China, Apple has reportedly asked its battery suppliers to scale up production in India, in time for manufacturing of the iPhone 16.More iPhone batteries will be made in IndiaDespite Apple's plans to expand overal…",
+        "url": "https://appleinsider.com/articles/23/12/06/apple-wants-suppliers-to-make-iphone-16-batteries-in-india-instead-of-china",
+        "urlToImage": "https://photos5.appleinsider.com/gallery/55376-112488-battery-iPhone-xl.jpg",
+        "publishedAt": "2023-12-06T10:20:06Z",
+        "content": "More iPhone batteries will be made in India\r\nAs its latest step in cutting its reliance on China, Apple has reportedly asked its battery suppliers to scale up production in India, in time for manufac… [+1689 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Android Central"
+        },
+        "author": "vishnu.skar@gmail.com (Vishnu Sarangapurkar)",
+        "title": "One UI 6 (Android 14) arrives on the Galaxy S23 FE, Tab S9 series",
+        "description": "Since last month, Samsung has consistently rolled out the One UI 6 stable build to its products, starting with the flagship series and expanding to more devices.",
+        "url": "https://www.androidcentral.com/apps-software/samsung-rolls-out-one-ui-6-to-galaxy-tab-s9-series-galaxy-s23-fe",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/FCDaubLZX5nVJUpFdrkvX7-1200-80.jpg",
+        "publishedAt": "2023-11-22T21:44:19Z",
+        "content": "<ul><li>Galaxy Tab S9, Galaxy Tab S9 Plus, and the Galaxy Tab S9 Ultra owners in Europe are receiving One UI 6 update.</li><li>The Android 14-based update is also rolling out to the Exynos 2200-power… [+1894 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Android Central"
+        },
+        "author": "vishnu.skar@gmail.com (Vishnu Sarangapurkar)",
+        "title": "Mid-range OnePlus Nord 3 picks up the stable OxygenOS 14 update",
+        "description": "OnePlus is rolling out timely stable Android 14 builds across its devices. After finishing with the flagships, the company has started rolling out to its mid-range phones.",
+        "url": "https://www.androidcentral.com/apps-software/oneplus-nord-3-gets-android-14-stable-oxygen-os-14",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/hsmHQspzcbDPMJgJBokfXd-1200-80.jpg",
+        "publishedAt": "2023-12-09T00:05:58Z",
+        "content": "<ul><li>OnePlus Nord 3 users in India receive Android 14-based OxygenOS 14 stable builds.</li><li>The latest update includes the Fluid Cloud feature and other useful features.</li><li>The rollout beg… [+2092 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Android Central"
+        },
+        "author": "vishnu.skar@gmail.com (Vishnu Sarangapurkar)",
+        "title": "OnePlus 12 to bring notable camera improvements, wireless charging",
+        "description": "After recently showcasing the OnePlus 12 in all its glory, OnePlus now confirms all the camera specs ahead of the launch.",
+        "url": "https://www.androidcentral.com/phones/oneplus-12-cameras-specs-wireless-charging-confirmed",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/tPpEjERkYbwkSWnNxMgnf7-1200-80.jpg",
+        "publishedAt": "2023-11-28T19:44:48Z",
+        "content": "<ul><li>OnePlus 12 camera specs unveiled ahead of the launch.</li><li>The device will debut the Sony LYT-808 sensor, a 50MP camera, for the first time.</li><li>It will also feature a 64MP periscopic … [+2210 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Android Central"
+        },
+        "author": "tips@androidcentral.com (Nickolas Diaz)",
+        "title": "Google TV 'Best of 2023' highlights the top shows, movies, and more",
+        "description": "Google TV launches its Best of 2023 list of award winners, detailing top genres, shows, and movies.",
+        "url": "https://www.androidcentral.com/streaming-tv/google-tv-best-of-2023-awards",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/ESASed6SwpVKzJGNtFqdoX-1200-80.jpg",
+        "publishedAt": "2023-11-29T18:06:25Z",
+        "content": "<ul><li>Google TV's \"Best Of\" states users were drawn to dramas the most, with \"Yellowstone\" and \"Succession\" standing out in the crowd.</li><li>The best movies include \"Barbie\" and \"Teenage Mutant N… [+2334 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Android Central"
+        },
+        "author": "techkritiko@gmail.com (Jay Bonggolto)",
+        "title": "OnePlus' new AI tool thinks you're Beethoven reborn",
+        "description": "The OnePlus AI Music Studio is a fun way to experiment with music creation, but it's not quite ready for the professional stage.",
+        "url": "https://www.androidcentral.com/apps-software/oneplus-ai-music-studio",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/p3dZAaYdhzwzuGJDnmXFTo-1200-80.jpg",
+        "publishedAt": "2023-11-21T18:16:38Z",
+        "content": "<ul><li>OnePlus AI Music Studio is available for both Indian and global markets, and you don't need to be a OnePlus user to access its features.</li><li>To create a music video, just select a genre, … [+2294 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Slashdot.org"
+        },
+        "author": "msmash",
+        "title": "Vanishing Graduate Tech Jobs Worsen Modi's Headache Before Elections",
+        "description": "For years, India's tech graduates could bank on a job offer from one of the country's IT giants. Now those starting positions are suddenly waning, leaving hundreds of thousands in peril and creating a fresh headache for Prime Minister Narendra Modi. From a re…",
+        "url": "https://tech.slashdot.org/story/23/12/01/1555202/vanishing-graduate-tech-jobs-worsen-modis-headache-before-elections",
+        "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+        "publishedAt": "2023-12-01T16:00:00Z",
+        "content": "Frankly, I don't blame the Indians, who I blame is the corporations hiring them. Corporations want cheap uber alles, and that's what they get. Quality doesn't even enter the equation, because when a … [+314 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "How the war changed Russia’s climate agenda",
+        "description": "Never an enthusiastic participant in green initiatives, Russia, Europe's energy powerhouse, has pushed climate change further down its list of priorities following the invasion of Ukraine.",
+        "url": "https://www.bbc.co.uk/news/world-europe-67637803",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CC81/production/_131935325_1f9b93842c15760c0f2fa78d81af53b512b50c98.jpg",
+        "publishedAt": "2023-12-10T17:18:26Z",
+        "content": "Ahead of the UN's COP28 climate summit in Dubai, Russia spoke against the \"phasing out\" of fossil fuels, while its recently updated climate doctrine makes no mention of fossil fuels and their impact … [+6007 chars]"
+    }
+]
