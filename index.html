@@ -12,6 +12,7 @@
 
     <nav>
         <div class="main-nav container flex">
+            <div class="flex wrap">
             <a href="#" onclick="reload()" class="company-logo">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/ABC_News_logo_2021.svg" alt="company logo">
             </a>
@@ -30,6 +31,19 @@
                 <input id="search-text" type="text" class="news-input" placeholder="e.g. Science">
                 <button id="search-button" class="search-button">Search</button></form>
             </div>
+        </div>
+        <div>
+            <div class="nav-links2">
+                <ul class="flex nav2">
+                    <li class="hover-link nav-item" id="all" onclick="onNavItemClick('india')">All</li>
+                     <li class="hover-link nav-item" id="finance" onclick="onNavItemClick('state')">States</li>
+                    <li class="hover-link nav-item" id="ipl" onclick="onNavItemClick('phone')">Tech</li>
+                    <li class="hover-link nav-item" id="politics" onclick="onNavItemClick('cricket')">Cricket</li>
+                   
+        
+                </ul>
+            </div>
+        </div>
         </div>
     </nav>
     

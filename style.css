@@ -52,8 +52,10 @@ nav {
     left: 0;
     right: 0;
 }
-
-.main-nav {
+.wrap{
+    width: 100%;
+}
+.main-nav div {
     justify-content: space-between;
     padding-block: 8px;
 }
@@ -105,7 +107,9 @@ nav {
     cursor: pointer;
     font-family: "Roboto", sans-serif;
 }
-
+.nav-links2{
+    display: none;
+}
 .search-button:hover {
     background-color: var(--accent-color-dark);
 }
@@ -116,7 +120,7 @@ main {
 }
 
 .cards-container {
-    justify-content: space-between;
+    justify-content: space-around;
     flex-wrap: wrap;
     row-gap: 20px;
     align-items: start;
@@ -151,4 +155,29 @@ main {
 
 .news-source {
     margin-block: 12px;
+}
+
+@media only screen and (max-width: 660px) {
+.nav-links{
+    display: none;
+}
+.company-logo img{
+    width: 90px;
+}
+.news-input{
+    width: 150px;
+}
+.search-button{  
+    padding: 8px 7px;
+}
+.nav-links2{
+    display:contents;
+}
+.nav2{
+    gap: 18px;
+}
+.main-nav{
+    display: flex;
+    flex-direction: column;
+}
 }
